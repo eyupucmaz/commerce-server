@@ -1,0 +1,14 @@
+{
+  "name": "commerce-server",
+  "version": "1.0.0",
+  "description": "A Json-server for commerce apps",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Eyyup Ucmaz",
+  "license": "MIT",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
