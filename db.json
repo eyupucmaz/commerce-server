@@ -890,15 +890,6 @@
       "image_big": "http://dummyimage.com/500x500.png/5fa2dd/ffffff",
       "price": "$83.38",
       "detail": "Rickettsiosis, unspecified"
-    },
-    {
-      "id": 100,
-      "name": "Soho Lychee Liqueur",
-      "desc": "Disp fx of epiphy (separation) (upper) of unsp femr, 7thN",
-      "image": "http://dummyimage.com/250x250.png/dddddd/000000",
-      "image_big": "http://dummyimage.com/500x500.png/dddddd/000000",
-      "price": "$42.51",
-      "detail": "Pyrexia of unknown origin during the puerperium, unspecified as to episode of care or not applicable"
     }
   ]
 }
